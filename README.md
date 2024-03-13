@@ -27,7 +27,6 @@ Ensure your presentation is professional, logical, and visually appealing.
 
 https://public.tableau.com/app/profile/andrea.hernandez1906/viz/CitiBike_Challenge_17102346353240/CitiBikeInsightsJan-May2023?publish=yes
 
-
 ## Analysis and Conclusions
 - User Analysis
 The CitiBike service is predominately used by as a membership service, rather than a casual service. Approximately 80% of the rides from January to May 2023 were taken by members. There is a slight increase in casual users during the spring/summer months, which is likely due to incoming tourism to the city, however the member still account for the majority of CitiBike rides. 
